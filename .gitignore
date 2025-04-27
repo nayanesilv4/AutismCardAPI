@@ -20,3 +20,19 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+**/*.classpath
+**/*.attach_*
+**/*.project
+**/target/**
+**/.settings/**
+
+target*
+.idea
+*.iml
+*.DS_Store
+javacore.*
+*.dmp
+*.trc
+/.apt_generated/
+/.apt_generated_tests/
